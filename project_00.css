@@ -33,6 +33,6 @@ table, th, td {
     font-size: larger;
 }
 
-.larger {
-   font: larger;
+.seagreen {
+   text-decoration: lightseagreen;
 } 
