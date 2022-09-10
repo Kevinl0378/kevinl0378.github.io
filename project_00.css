@@ -42,10 +42,14 @@ table, th, td {
    background: rgb(148, 255, 90);
 } 
 
-.bright-blue {
-    color:rgb(0, 255, 238);
+.yellow-text {
+    color:rgb(206, 196, 8);
 }
  
+.red-text {
+    color:rgb(170, 12, 12)
+}
+
 @media screen and (max-width:1200px) {
     .red {
         background:white;
