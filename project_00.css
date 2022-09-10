@@ -47,7 +47,7 @@ table, th, td {
 }
  
 .red-text {
-    color:rgb(170, 12, 12)
+    color:rgb(170, 12, 12);
 }
 
 @media screen and (max-width:1200px) {
