@@ -54,4 +54,7 @@ table, th, td {
     .red {
         background:white;
     }
+    img {
+        width: 40%;
+    }
 }
