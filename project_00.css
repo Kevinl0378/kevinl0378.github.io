@@ -16,16 +16,16 @@ li:hover {
     font:bolder;
 }
 
-.hello-world {
+.light-red {
     background:rgb(227, 151, 151);
 }
 
-.about-me {
+.light-yellow {
     background: rgb(227, 227, 169);
 }
 
-.table {
-    background:rgb(227, 151, 151);
+.red {
+    background:rgb(194, 69, 69);
 }
 
 table, th, td {
@@ -33,6 +33,6 @@ table, th, td {
     font-size: larger;
 }
 
-.name {
+.larger {
    font: larger;
 } 
