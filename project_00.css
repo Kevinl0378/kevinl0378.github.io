@@ -42,7 +42,7 @@ table, th, td {
    background: rgb(148, 255, 90);
 } 
  
-@media screen and (max-width:770px) {
+@media screen and (max-width:1200px) {
     .red {
         background:white;
     }
