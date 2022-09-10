@@ -41,6 +41,10 @@ table, th, td {
 .neon {
    background: rgb(148, 255, 90);
 } 
+
+.bright-blue {
+    color:rgb(0, 255, 238);
+}
  
 @media screen and (max-width:1200px) {
     .red {
