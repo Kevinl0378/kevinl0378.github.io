@@ -16,6 +16,11 @@ li:hover {
     font:bolder;
 }
 
+.introduction {
+    text-decoration: underline;
+    font:bolder;
+}
+
 .light-red {
     background:rgb(227, 151, 151);
 }
