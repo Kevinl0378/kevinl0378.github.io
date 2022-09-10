@@ -27,3 +27,8 @@ li:hover {
 .table {
     background:rgb(227, 151, 151);
 }
+
+table, th, td {
+    border: 1px solid black;
+    font-size: larger;
+}
