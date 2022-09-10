@@ -1,11 +1,29 @@
 a {
-    color: rgb(38, 0, 255);
+    color: rgb(255, 0, 0);
 }
 
 li:hover {
-    font-size:x-large;
-    font:bold;
+    font-size: x-large;
+    font: bolder;
 }
 
+.school {
+    color: red;
+}
 
+#introduction {
+    text-decoration: underline;
+    font:bolder;
+}
 
+.hello-world {
+    background:rgb(227, 151, 151);
+}
+
+.about-me {
+    background: rgb(227, 227, 169);
+}
+
+.table {
+    background:rgb(227, 151, 151);
+}
