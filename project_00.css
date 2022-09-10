@@ -33,6 +33,6 @@ table, th, td {
     font-size: larger;
 }
 
-.seagreen {
-   background: lightseagreen;
+.neon {
+   background: rgb(148, 255, 90);
 } 
