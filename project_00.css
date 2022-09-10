@@ -4,7 +4,7 @@ a {
 
 li:hover {
     font-size: x-large;
-    font: bolder;
+    font: bold;
 }
  
 .school {
@@ -13,12 +13,12 @@ li:hover {
 
 #introduction {
     text-decoration: underline;
-    font:bolder;
+    font:bold;
 }
 
 .introduction1 {
     text-decoration: underline;
-    font:bolder;
+    font:bold;
 }
 
 .light-red {
